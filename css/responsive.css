@@ -1,0 +1,403 @@
+@media (min-width:279px) and (max-width:319px){
+/*css code start*/
+.header .navbar-expand-lg .navbar-nav .nav-link:hover{
+	background: url("../image/line.png") left bottom no-repeat;
+	background-size: auto;
+
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+	margin: 0px;
+
+}
+.banner{
+	padding: 60px 0px;
+
+}
+.banner h1{
+	font-size:22px;
+	line-height: 1.3em;
+
+}
+.banner p{
+	font-size: 9px;
+
+}
+.banner .double-btn{
+	padding:20px 0px 0px ;
+
+}
+.banner .double-btn .btn-primary{
+	padding: 10px 12px;
+	font-size: 9px;
+
+}
+.banner .double-btn .btn-info{
+	padding: 10px 12px;
+	font-size: 9px;
+
+}
+.feature{
+	padding: 40px 0px;
+
+}
+.title{
+	padding: 0px 0px 20px;
+
+}
+.title h1{
+	font-size: 30px;
+
+}
+.inner-feature{
+	padding: 20px 40px ;
+
+}
+.about-long{
+	padding: 40px 0px;
+
+}
+.about-sort{
+	padding: 40px 0px;
+
+}
+.about-sort .title{
+	margin: 0px;
+
+}
+.testimonials{
+	padding: 40px 0px;
+
+}
+.testimonials .title{
+	padding: 0px 0px 20px;
+
+}
+.testimonials .owl-carousel .item h4{
+	font-size: 14px;
+	margin: 0px 0px 10px;
+
+
+
+}
+.testimonials .owl-carousel .item .client-img{
+	width: 40px;
+	height: 40px;
+	margin: 20px 0px 0px;
+
+}
+.client-info p{
+	font-size: 10px;
+
+
+}
+.testimonials .owl-carousel .item .client-info{
+	padding:0px 0px 10px ;
+
+}
+.eye-catcher{
+	padding: 25px 0px;
+
+}
+
+.eye-catcher h1{
+	font-size: 26px;
+	margin: 0px 0px 15px;
+
+
+
+}
+.eye-catcher .double-btn .btn-info{
+	padding: 10px 12px ;
+	font-size: 9px;
+
+
+}
+
+.eye-catcher .double-btn .btn-primary{
+	padding: 10px 12px ;
+	font-size: 9px;
+}
+.price .title{
+	padding: 0px 0px 20px;
+
+}
+.price-box{
+	margin: 0px 0px 20px;
+
+}
+
+
+/*css coad end*/
+}
+@media (min-width:320px) and (max-width:480px){
+/*css code start*/
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover{
+	background: url("../image/line.png") left bottom no-repeat;
+	background-size: auto;
+
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+	margin: 0px;
+
+}
+.banner{
+	padding: 60px 0px;
+
+}
+.banner h1{
+	font-size:32px;
+	line-height: 1.3em;
+
+}
+.banner p{
+	font-size: 12px;
+
+}
+.banner .double-btn{
+	padding:20px 0px 0px ;
+
+}
+.banner .double-btn .btn-primary{
+	padding: 15px 20px;
+	font-size: 12px;
+
+}
+.banner .double-btn .btn-info{
+	padding: 15px 20px;
+	font-size: 12px;
+
+}
+.feature{
+	padding: 40px 0px;
+
+}
+.title{
+	padding: 0px 0px 20px;
+
+}
+.title h1{
+	font-size: 30px;
+
+}
+.inner-feature{
+	padding: 20px 40px ;
+
+}
+.about-long{
+	padding: 40px 0px;
+
+}
+.about-sort{
+	padding: 40px 0px;
+
+}
+.about-sort .title{
+	margin: 0px;
+
+}
+.testimonials{
+	padding: 40px 0px;
+
+}
+.testimonials .title{
+	padding: 0px 0px 20px;
+
+}
+.testimonials .owl-carousel .item h4{
+	font-size: 16px;
+	margin: 0px 0px 10px;
+
+
+
+}
+.testimonials .owl-carousel .item .client-img{
+	width: 40px;
+	height: 40px;
+	margin: 20px 0px 0px;
+
+}
+.client-info p{
+	font-size: 14px;
+
+
+}
+.testimonials .owl-carousel .item .client-info{
+	padding:0px 0px 10px ;
+
+}
+.eye-catcher{
+	padding: 25px 0px;
+
+}
+
+.eye-catcher h1{
+	font-size: 30px;
+	margin: 0px 0px 15px;
+
+
+
+}
+.eye-catcher .double-btn .btn-info{
+	padding: 15px 20px ;
+	font-size: 12px;
+
+
+}
+
+.eye-catcher .double-btn .btn-primary{
+	padding: 15px 20px ;
+	font-size: 12px;
+}
+.price .title{
+	padding: 0px 0px 20px;
+
+}
+.price-box{
+	margin: 0px 0px 20px;
+
+}
+
+
+
+
+
+/*css coad end*/
+
+}
+@media (min-width:481px) and (max-width:767px){
+/*css code start*/	
+/*css coad end*/
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover{
+	background: url("../image/line.png") left bottom no-repeat;
+	background-size: auto;
+
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+	margin: 0px;
+
+}
+.banner{
+	padding: 60px 0px;
+
+}
+.banner h1{
+	font-size:34px;
+	line-height: 1.3em;
+
+}
+.banner p{
+	font-size: 13px;
+
+}
+.banner .double-btn{
+	padding:20px 0px 0px ;
+
+}
+.banner .double-btn .btn-primary{
+	padding: 15px 20px;
+	font-size: 13px;
+
+}
+.banner .double-btn .btn-info{
+	padding: 15px 20px;
+	font-size: 13px;
+
+}
+.feature{
+	padding: 40px 0px;
+
+}
+.title{
+	padding: 0px 0px 20px;
+
+}
+.title h1{
+	font-size: 32px;
+
+}
+.inner-feature{
+	padding: 20px 40px ;
+
+}
+.about-long{
+	padding: 40px 0px;
+
+}
+.about-sort{
+	padding: 40px 0px;
+
+}
+.about-sort .title{
+	margin: 0px;
+
+}
+.testimonials{
+	padding: 40px 0px;
+
+}
+.testimonials .title{
+	padding: 0px 0px 20px;
+
+}
+.testimonials .owl-carousel .item h4{
+	font-size: 18px;
+	margin: 0px 0px 10px;
+
+
+
+}
+.testimonials .owl-carousel .item .client-img{
+	width: 40px;
+	height: 40px;
+	margin: 20px 0px 0px;
+
+}
+.client-info p{
+	font-size: 15px;
+
+
+}
+.testimonials .owl-carousel .item .client-info{
+	padding:0px 0px 10px ;
+
+}
+.eye-catcher{
+	padding: 25px 0px;
+
+}
+
+.eye-catcher h1{
+	font-size: 32px;
+	margin: 0px 0px 15px;
+
+
+
+}
+.eye-catcher .double-btn .btn-info{
+	padding: 15px 20px ;
+	font-size: 13px;
+
+
+}
+
+.eye-catcher .double-btn .btn-primary{
+	padding: 15px 20px ;
+	font-size: 13px;
+}
+.price .title{
+	padding: 0px 0px 20px;
+
+}
+.price-box{
+	margin: 0px 0px 20px;
+	
+}
+
+}
+@media (min-width:768px) and (max-width:1024px){
+	/*css code start*/
+	/*css coad end*/
+
+}
